@@ -5,7 +5,7 @@
 </div>
 
 <div align=right>
-Versión 1.1
+Versión 1.2
 
 Mayo de 2022
 
@@ -108,7 +108,7 @@ Si tenés la necesidad de dejar de jugar por varias semanas, por favor charlá c
 **<details><summary>no se aceptan personajes malvados ni personajes secretos </summary>**
 
 <blockquote>
-Sin excepciones. En muy contadas ocasiones de campañas especiales puede haber algun workaround, pero casi siempre la respuesta es no. [Éste video](https://youtu.be/tqebcPfY51M?t=301) tiene la explicación de ambos motivos.
+Sin excepciones. En muy contadas ocasiones de campañas especiales puede haber algun workaround, pero casi siempre la respuesta es no. <a href="https://youtu.be/tqebcPfY51M?t=301">Éste video</a> tiene la explicación de ambos motivos.
 </blockquote></details>
 
 **<details><summary>tratá de esforzarte en background de tu personaje</summary>**
