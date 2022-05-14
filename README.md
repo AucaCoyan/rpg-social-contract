@@ -5,7 +5,7 @@
 </div>
 
 <div align=right>
-Versión 1.2
+Versión 1.21
 
 Mayo de 2022
 
@@ -22,7 +22,7 @@ Juntarse a jugar rol es un compromiso que lleva mucho tiempo, organización y es
 TODO
 -->
 
-Este texto sirve como marco general para todas mis campañas. Tener en cuenta que para alguna campaña particular puede que apliquen algunas reglas especificas.
+Este texto sirve como marco general para todas mis campañas.
 
 👇 Hay más info dentro de los triangulitos!
 
@@ -36,10 +36,10 @@ You rolled a nat 1.
 
 </div>
 
-**<details><summary>todos somos jugadores</summary>**
+**<details><summary>todos somos jugadores, el GM también</summary>**
 
 <blockquote>
-El GM también es un jugador. La única diferencia es que el GM tiene más de un personaje, pero todos juntos creamos la historia. Si bien el GM es el encargado de marcar el curso del mundo cuando los personajes interactúan con él, no quiere decir que esté abierto a sugerencias. Seguramente si en el momento le parece mejor idea la tuya que la que él tenía pensada, te la va a robar y va a reemplazarla por lo que tenía pensado 😛.
+El GM también es un jugador. La única diferencia es que el GM tiene más de un personaje, pero todos juntos creamos la historia. Si bien el GM es el encargado de marcar el curso del mundo cuando los personajes interactúan con él, no quiere decir que no esté abierto a sugerencias. Seguramente si en el momento le parece mejor idea la tuya que la que él tenía pensada, te la va a robar y va a reemplazarla por lo que tenía pensado 😛.
 
 [El punto número 2 de éste video](https://youtu.be/6Z1scWg9boU?t=338) aclara bastante a qué me refiero
 
@@ -59,7 +59,7 @@ Guy lo explica por qué es importante muy bien <a href="https://www.youtube.com/
 <blockquote>
 Antes de empezar a jugar, tenemos que tener en cuenta que nos juntamos a jugar con compromiso, el GM probablemente estuvo varias horas leyendo el libro, preparando contenido como mapas y monstruos, configurando y copiando texto al VTT mientras está pensando en su tiempo fuera de la pc cómo es la mejor forma de llevar adelante la aventura.
 
-Por favor, respetá el esfuerzo de los demas con el compromiso de llegar puntual a las sesiones y tratar de no faltar. Vos pensá que si falta un jugador los ponés a los demás en una situación de compromiso, porque no estaría bueno que la historia avance sin un jugador, pero mientras tanto qué pueden hacer?.
+Por favor, respetá el esfuerzo de los demas con el compromiso de llegar puntual a las sesiones y tratar de no faltar. Vos pensá que si falta un jugador los ponés a los demás en una situación de compromiso, porque no estaría bueno que la historia avance sin un jugador, y al mismo tiempo si la aventura tiene repetidas sesiones canceladas los jugadores de a poco empiezan a perder el interés debido a que se diluye la tensión en el tiempo.
 
 </blockquote></details>
 
@@ -72,31 +72,29 @@ Todos tenemos una vida apretada por el trabajo y otros hobbies que mantenemos o 
 **<details><summary>evaluá si podés asistir durante toda la campaña</summary>**
 
 <blockquote>
-A veces tenemos un montón de ganas de jugar una aventura, pero después pasa que nunca encontramos el horario con el grupo, o dormimos mal por 6 meses un dia a la semana poruqe nos comprometimos a jugar a las 12 de la noche.
-Tengamos en cuenta eso, no te sumes a una campaña para la cual no podés asegurar estar en todas las sesiones
+Una de las cosas más dificiles de conseguir es gente para jugar en un horario que puedan todos. A veces tenemos un montón de ganas de jugar una aventura, pero después pasa que nunca encontramos el horario con el grupo, o dormimos mal por 6 meses un dia a la semana porque nos comprometimos a jugar a las 12 de la noche.
+
+Tengamos en cuenta eso, no te sumes a una campaña para la cual no podés asegurar estar en todas las sesiones en el corto y medio plazo.
+
 </blockquote></details>
 
 **<details><summary>avisá** **<span style="color:#6c63ff">con tiempo</span>** **si vas a llegar tarde o faltar</summary>**
 
 <blockquote>
 Le doy importancia a la puntualidad, asi que si te ocurre algun problema antes de la sesión y tenés que llegar un poco tarde, por favor avisá en el canal de comunicacion que tengamos en el grupo (no solo al GM! 😉).
-Se considera que se espera 15 minutos. Si llegas un minuto después no significa que te quedes afuera de la campaña, pero tratá de tener una buena razón si no avisaste que llegas tarde antes (no digamos 
-<i>porque colgué, equis de</i>).
+Se considera que se espera 15 minutos. Tratá de que si te demorás, que sea por un motivo que no pudiste controlar (cortes de luz, salir tarde del laburo, un tema de salud imprevisto, etc).
 </blockquote></details>
 
 **<details><summary>si falta un jugador, el GM puede cancelar la partida</summary>**
 
 <blockquote>
-Si esperamos a un jugador y no viene, después de que el GM considere que la espera fue suficiente se cancela la partida, así no estamos todos comprometidos con algo fijo como jugar rol (sin realmente estar jugando rol) y podemos hacer otra cosa si queremos.
-
-A veces podemos jugar con un jugador menos, pero tratamos de que no sea relevante para la historia (así aprovechamos la juntada). Una de las cosas más dificiles de conseguir es gente para jugar en un horario que puedan todos.
-
+Después del plazo de espera el GM puede decidir cancelar la partida. La mayoría de las veces las aventuras no permiten jugar con un jugador menos (así aprovechamos la juntada).
 </blockquote></details>
 
 **<details><summary>si te tenés que ausentar por más tiempo, se puede charlar</summary>**
 
 <blockquote>
-Si tenés la necesidad de dejar de jugar por varias semanas, por favor charlá con el GM para ver como podemos entrelazar con la campaña, asi no se esfuma de la historia y mágicamente aparece unas sesiones más tarde.
+Si tenés la necesidad de dejar de jugar por varias semanas, por favor charlá con el GM para ver como podemos entrelazar con la campaña, asi tu personaje no se esfuma de la historia y mágicamente aparece unas sesiones más tarde.
 </blockquote></details>
 
 <div align=center>
@@ -105,19 +103,19 @@ Si tenés la necesidad de dejar de jugar por varias semanas, por favor charlá c
 
 </div>
 
-**<details><summary>no se aceptan personajes malvados ni personajes secretos </summary>**
+**<details><summary>no se aceptan personajes malvados ni personajes con clase raza o background secretos </summary>**
 
 <blockquote>
 Sin excepciones. En muy contadas ocasiones de campañas especiales puede haber algun workaround, pero casi siempre la respuesta es no. <a href="https://youtu.be/tqebcPfY51M?t=301">Éste video</a> tiene la explicación de ambos motivos.
 </blockquote></details>
 
-**<details><summary>tratá de esforzarte en background de tu personaje</summary>**
+**<details><summary>tratá de esforzarte en el background de tu personaje</summary>**
 
 <blockquote>
 
 Jugamos al rol por varios motivos, por entretenimiento, por leer buenas historias, por interpretar personajes que queremos y escaparnos de la realidad, por el lado gaming de "derrotar" los obstáculos del camino y tambien por el encuentro social [ver éste video](https://www.youtube.com/watch?v=UrIIeC-ahf8) que habla más sobre el tema.
 
-La historia la considero una gran parte, y para que la historia sea de los personajes, necesito de tu ayuda para que me indiques de donde viene, qué está haciendo y hacia adonde va tu personaje. Se agradecen los documentos! (_por ejemplo google docs_ 🧠)
+Considero la historia una gran parte, y para que la historia sea de los personajes, necesito de tu ayuda para que me indiques de donde viene, qué está haciendo y hacia adonde va tu personaje. Se agradecen los documentos! (_por ejemplo google docs_ 🧠)
 
 </blockquote></details>
 
@@ -125,17 +123,17 @@ La historia la considero una gran parte, y para que la historia sea de los perso
 
 <blockquote>
 
-Con acuerdo del GM, podés rediseñar todo lo que se te antoje de tu personaje, cambiar descripciones de hechizos, animal companions, algunos dotes y tener items personalizados pero es solo es con el objetivo de una mejor interpretacion. No se cambiarán las mecánicas a tu favor porque vos lo pidas.
+Con acuerdo del GM, podés rediseñar todo lo que se te antoje de tu personaje, cambiar descripciones de hechizos, animal companions, algunos dotes y tener items personalizados pero sólo es con el objetivo de una mejor interpretacion. No se cambiarán las mecánicas a tu favor porque vos lo pidas.
 
 </blockquote></details>
 
-**<details><summary>hacer un personaje a medida está bien, optimizar las elecciones para conseguir una ventaja mecánica en todos (o la mayoría de) los casos it's not</summary>**
+**<details><summary>no powergaming o munchkin</summary>**
 
 <blockquote>
-A todos nos gusta crear personajes, y también nos gusta que sean buenos en lo que hacen, nos hacen las batallas más fáciles.
-El punto empieza cuando un jugador empieza a elegir los dotes que más le convienen solo leyendo los contenidos mecánicos, y después el personaje es una mezcla de lore de todas las posibilidades posibles.
+A todos nos gusta crear personajes y también nos gusta que sean buenos en lo que hacen, nos hacen las batallas más fáciles.
+El problema empieza cuando un jugador elige los dotes que más le convienen solo leyendo los contenidos mecánicos, y después el personaje se vuelve inroleable e imposible de integrar en el mundo
 
-Ya me paso en el pasado, la mejor de las ondas con el jugador que habia optimizado todo, pero me pasaba como GM que realizar un encuentro era una remilpaja. No podia hacer un encuentro de dificultad normal para ese personaje sin matar de un solo ataque a los otros jugadores, y tampoco podía hacer un encuentro normal para la party, porque el personaje me mataba 2 o 3 enemigos en un turno.
+Ya me paso en el pasado, la mejor de las ondas con el jugador que habia optimizado todo, pero me pasaba como GM que realizar un encuentro era una fiaca. No podia hacer un encuentro de dificultad normal para ese personaje sin matar de un solo ataque a los otros jugadores, y tampoco podía hacer un encuentro normal para la party, porque el personaje me mataba 2 o 3 enemigos en un turno.
 
 </blockquote></details>
 
@@ -183,25 +181,27 @@ No controlás los personajes de los demás, salvo autorización del GM (por ejem
 **<details><summary>no al metagaming</summary>**
 
 <blockquote>
-Metagaming es cuando un jugador utiliza su conocimiento para determinar las acciones de su personaje, cuando no habría una explicación posible de cómo es que su personaje tendría ese conocimiento en primer lugar.
+Metagaming es cuando un jugador utiliza su conocimiento para determinar las acciones de su personaje, cuando no hay una explicación posible de cómo es que su personaje tiene ese conocimiento en primer lugar.
 
-Hay distintos niveles de metagaming, algunos son inofensivos y muchos son inevitables de que sucedan. El objetivo es que tu personaje no actúe de manera incosistente con respecto a su conocimiento.
+Hay distintos niveles de metagaming, algunos son inofensivos y en otros son inevitables. El objetivo es que tu personaje no actúe de manera inconsistente con respecto a su conocimiento.
 
 </blockquote></details>
 
 **<details><summary>usamos tiradas ocultas (conocido tambien como dice tower)</summary><blockquote>**
-Puede ser molesto las primeras veces, pero tiene mucho sentido una vez que lo pensás, imaginate:
+Puede ser molesto las primeras veces, pero tiene mucho sentido una vez que lo pensás. En ciertas oportunidades las tiradas ocultas ayudan a evitar el metagaming y que el personaje utilice la informacion que fue aprendiendo en el curso de su vida, ni más ni menos.
 
-Estás en un dungeon oscuro y desconocido, apenas podés guiarte con las direcciones que te dejó en un mapa el que encargó la mision con poca o casi nula información de los peligros. Buscás trampas y te pido que hagas una tirada:
+Para dar un ejemplo: _Estás en un dungeon oscuro y desconocido, apenas podés guiarte con las direcciones que te dejó en un mapa el que encargó la mision con poca o casi nula información de los peligros. Buscás trampas y te pido que hagas una tirada:_
 
 <details><summary>ves el resultado:</summary><blockquote>
 sacás un 4, más tu modificador de buscar trampas es un 12
 </details></blockquote>
 
 <blockquote>
-Si te digo <i>no ves que haya trampas</i>, vas a creerme como jugador? Tu personaje no sabe que buscó mal o se olvidó de revisar si había baldosas flojas.
+Te digo "<i>no ves que haya trampas</i>". Como jugador sabés que tenés una tirada baja, sin embargo tu personaje no entiende de tiradas, ni tampoco sabe que buscó mal o se olvidó de revisar si había baldosas flojas por ejemplo.
 
-Ahora, si repetimos el proceso, vos tiras un dado y solamente yo como GM veo el resultado. Te respondo _afinás tus ojos y aguzás tus sentidos, no ves amenazas aparentes_. Reaccionás igual como jugador? tu personaje puede ser mejor interpretado si vos realmente no tenés la información que no deberías tener? (sería como un metagaming menor). Bueno, para eso algunas tiradas se ocultan.
+Ahora, si repetimos el proceso con una tirada secreta: vos tiras un dado y solamente yo como GM veo el resultado. Te respondo _afinás tus ojos y aguzás tus sentidos, no ves amenazas aparentes_. ¿Reaccionás igual como jugador? Serías más precavido porque no sabés si sacaste una tirada alta o baja.
+
+Creo que tu personaje puede ser mejor interpretado si vos realmente tenés la información que deberías tener (sería como un metagaming menor). Bueno, para eso algunas tiradas se ocultan.
 
 Dicho eso tampoco está bueno ocultar absolutamente todas las tiradas. Hay un thread de reddit que no me acuerdo donde está, pero cuenta que un jugador le pide a su GM que le oculte sus propias tiradas, porque le gusta más que no sepa el resultado de sus acciones.
 
@@ -222,37 +222,38 @@ el GM dice qué libros oficiales son validos (por ejemplo el Advanced Players Gu
 
 Aunque intepretemos personajes, hay acciones que nunca se pueden tomar, bajo ningun concepto. Si bromeás, insinuás, preguntas _"que pasaria sí?...."_, acusás falsamente a alguien de éstas acciones el que está equivocado sos vos.
 
-Estos temas existen tanto en nuestro mundo como en le mundo de fantasía, pero el punto es que no son descritos o representados por el bien de todos los jugadores de la mesa.
+Estos temas existen tanto en nuestro mundo como en el mundo de fantasía, pero el punto es que no son descritos o representados por el bien de todos los jugadores de la mesa.
 
-Un segundo motivo de por qué no utilizar estos factores es que puede ser disparar reacciones para jugadores. Incluso si venis jugando hace tiempo con esa persona, no sabés si una referencia o insinuación a el suicidio puede hacerle acordar a un familiar medio lejano que se suicidó y él pasó un mal momento. Hay un [muy buen video de Taking20](https://www.youtube.com/watch?v=xo3EC4IHgAc) que habla del tema.
+Un segundo motivo de por qué no utilizar estos factores es que puede disparar reacciones no placenteras en los jugadores. Incluso si venis jugando hace tiempo con una persona, podés no conocerla tan profundamente como para saber si una referencia ingame a cualquiera de los temas de esta sección no le hace recordar a una vivencia personal. Hay un [muy buen video de Taking20](https://www.youtube.com/watch?v=xo3EC4IHgAc) que habla del tema.
 
 **<details><summary>asalto sexual</summary>**
 
 <blockquote>
-Jamás podés intentar un asalto sexual on otro personaje. No import asi otros jugadores aceptan. Ellos y vos no van a participar en ello. 
-Con permiso de otro jugador se pueden hacer actos romanticos, como la clasica caricia, agarrar las manos, etcétera, pero el toqueteo es donde está más allá del límite impuesto.
+Está prohibido intentar actos sexuales no consensuados con otro personaje. No importa si otros jugadores aceptan. No va a suceder.
+
+Tampoco es aceptable ser explicitos con cuestiones sexuales. Con permiso de otro jugador se pueden hacer actos romanticos, como la clasica caricia, agarrar las manos, etcétera.
 
 </blockquote></details>
 
 **<details><summary>tortura</summary>**
 
 <blockquote>
-No se puede torturar otro personaje, jugador o NPC. Esto incluye pero no está limitado a físico, mental o espiritual.
-Un interrogatorio social de naturaleza menos extrema son permisibles, siempre que no se vaya de las manos.
+No se puede torturar otro personaje, jugador o NPC. Esto incluye pero no está limitado a lo físico, mental o espiritual.
+Un interrogatorio de naturaleza menos extrema es permisible, pero no cometer actos de violencia de forma sádica.
 
 </blockquote></details>
 
 **<details><summary>muerte infantil</summary>**
 
 <blockquote>
-No se puede dañar a un niño. Desastres, enemigos, enfermedades y otros peligros existen, pero su uso narrativo está solamente utilizado y aprobado por GMs. Backgrounds con historias complicadas se pueden lograr, previo acuerdo con el GM.
+No se puede dañar a un niño. Desastres, enemigos, enfermedades y otros peligros existen, pero su uso narrativo está solamente utilizado y aprobado por GMs. Se pueden construiir backgrounds con infancias complicadas con previo acuerdo con el GM.
 
 </blockquote></details>
 
 **<details><summary>suicidio</summary>**
 
 <blockquote>
-Los jugadores no pueden matar a su personaje mediante el suicidio. No pueden amenazar con hacerlo o decir que lo irán a hacer. Un sacrificio heróico puede estar ok según cada caso.
+Los jugadores no pueden suicidar a su personaje. No pueden amenazar con hacerlo o decir que lo irán a hacer. Un sacrificio heróico puede estar ok según cada caso.
 
 </blockquote></details>
 
@@ -266,7 +267,7 @@ Los seres tienen las mismas intenciones de vivir que nosotros. Así como no malt
 **<details><summary>fobias</summary>**
 
 <blockquote>
-Este es menos serio que los anteriores, pero sigue siendo una regla dura a la cual adherirse. Si tu personaje contiene simbología fuerte, referencias o tiene la fobia, lo mejor es avisar a los otros jugadores, así pueden decidir si se sienten bien o se sienten incómodos con la simbología. Es por el bien de todos.
+Este es menos serio que los anteriores, pero sigue siendo una regla dura a la cual adherirse. Si tu personaje contiene simbología fuerte, referencias o tiene una fobia, lo mejor es avisar a los otros jugadores, así pueden decidir si se sienten bien o se sienten incómodos con la simbología. Es por el bien de todos.
 
 Ejemplos comunes de fobias:
 
