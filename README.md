@@ -107,6 +107,16 @@ Si tenés la necesidad de dejar de jugar por varias semanas, por favor charlá c
 
 <blockquote>
 Sin excepciones. En muy contadas ocasiones de campañas especiales puede haber algun workaround, pero casi siempre la respuesta es no. <a href="https://youtu.be/tqebcPfY51M?t=301">Éste video</a> tiene la explicación de ambos motivos.
+
+<br>
+
+**En qué consisten acciones estúpidas, caóticas o malvadas?**
+
+- Entrar a robar en todos los negocios porque pintó
+- Robar, infiltrarse, traicionar, mentir sin motivo sostenido por la party siempre son actos caóticos.
+- Si necesitan oro no roben a 15 NPCs en fila en el mismo lugar. Lo razonable es que le roben a 1 o como mucho 2 y salgan corriendo de ese lugar.
+- La nigromancia hay que tratarla con cuidado, generalmente es más veces es maligna que benigna. Para más información ver éste thread de [why is necromancy evil](https://www.reddit.com/r/Pathfinder_RPG/comments/34gi4u/why_is_necromancy_evil/).
+
 </blockquote></details>
 
 **<details><summary>tratá de esforzarte en el background de tu personaje</summary>**
