@@ -5,9 +5,9 @@
 </div>
 
 <div align=right>
-Versión 1.21
+Versión 1.26
 
-Mayo de 2022
+Septiembre de 2022
 
 </div>
 
@@ -72,7 +72,7 @@ Todos tenemos una vida apretada por el trabajo y otros hobbies que mantenemos o 
 **<details><summary>evaluá si podés asistir durante toda la campaña</summary>**
 
 <blockquote>
-Una de las cosas más dificiles de conseguir es gente para jugar en un horario que puedan todos. A veces tenemos un montón de ganas de jugar una aventura, pero después pasa que nunca encontramos el horario con el grupo, o dormimos mal por 6 meses un dia a la semana porque nos comprometimos a jugar a las 12 de la noche.
+Una de las cosas más dificiles de conseguir es gente para jugar en un horario que puedan todos. A veces tenemos un montón de ganas de jugar una aventura, pero después pasa que nunca encontramos el horario con el grupo, o para aceptamos un horario que nos condiciona a dormir mal un dia a la semana durante 6 meses.
 
 Tengamos en cuenta eso, no te sumes a una campaña para la cual no podés asegurar estar en todas las sesiones en el corto y medio plazo.
 
@@ -88,7 +88,7 @@ Se considera que se espera 15 minutos. Tratá de que si te demorás, que sea por
 **<details><summary>si falta un jugador, el GM puede cancelar la partida</summary>**
 
 <blockquote>
-Después del plazo de espera el GM puede decidir cancelar la partida. La mayoría de las veces las aventuras no permiten jugar con un jugador menos (así aprovechamos la juntada).
+Después del plazo de espera acordado, el GM puede cancelar la partida. La mayoría de las veces las aventuras no permiten continuar la historia con un jugador menos (por eso es tan importante que estemos todos!).
 </blockquote></details>
 
 **<details><summary>si te tenés que ausentar por más tiempo, se puede charlar</summary>**
@@ -113,7 +113,7 @@ Sin excepciones. En muy contadas ocasiones de campañas especiales puede haber a
 
 <blockquote>
 
-Jugamos al rol por varios motivos, por entretenimiento, por leer buenas historias, por interpretar personajes que queremos y escaparnos de la realidad, por el lado gaming de "derrotar" los obstáculos del camino y tambien por el encuentro social [ver éste video](https://www.youtube.com/watch?v=UrIIeC-ahf8) que habla más sobre el tema.
+Jugamos al rol por varios motivos: entre ellos, para entretenernos, para contar buenas historias, para interpretar los personajes que queremos y escaparnos de la realidad. También por el lado gaming de "derrotar" los obstáculos del camino con las herramientas que tenemos y tambien jugamos por el encuentro social entre amigos. [Éste video](https://www.youtube.com/watch?v=UrIIeC-ahf8) habla más y mejor sobre el tema.
 
 Considero la historia una gran parte, y para que la historia sea de los personajes, necesito de tu ayuda para que me indiques de donde viene, qué está haciendo y hacia adonde va tu personaje. Se agradecen los documentos! (_por ejemplo google docs_ 🧠)
 
@@ -127,7 +127,7 @@ Con acuerdo del GM, podés rediseñar todo lo que se te antoje de tu personaje, 
 
 </blockquote></details>
 
-**<details><summary>no powergaming o munchkin</summary>**
+**<details><summary>no al powergaming</summary>**
 
 <blockquote>
 A todos nos gusta crear personajes y también nos gusta que sean buenos en lo que hacen, nos hacen las batallas más fáciles.
@@ -164,7 +164,7 @@ Además, si acompañás poniendo música, sonidos, pegando imagnes en el canal, 
 
 La muerte de los personajes es indeseada, pero puede ocurrir.
 
-El mundo de fantasía no está vacío de peligros, y si los personajes fueran actores de una serie que tiene que seguir sería medio aburrido que siempre salgan victoriosos no importan las condiciones. Por supuesto que no voy a ponerme en modo hardcore, pero las acciones tienen consecuencias.
+El mundo de fantasía no está vacío de peligros, y si los personajes fueran actores de una serie de televisión que tiene que seguir sacando temporadas sería medio aburrido que siempre salgan victoriosos no importan las condiciones. Por supuesto que no voy a ponerme en modo hardcore, pero las acciones tienen consecuencias.
 
 Ante la muerte de un personaje, siempre se charla con el GM qué hacer después.
 
