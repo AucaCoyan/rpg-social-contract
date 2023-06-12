@@ -1,0 +1,150 @@
+watermark (
+Chanter version 0.2 Release 2021-07-17
+)
+title (
+Chanter
+)
+
+
+# Chanter
+
+Chanters can be found in almost any culture, but are most often seen in communities with a strong oral tradition. They are repositories of folk knowledge and common wisdom, tellers of tall tales and hallowed legends. They use these stories and legends to stir the memories of the dreaming lost souls and soul fragments that surround them. The spirits respond by creating magical effects, essentially playing their part in the recreation of the legends. In this way, chanters act as directors of supernatural actors playing out momentary plays for the chanter's benefit.
+
+
+They are storytellers and repositories of ancient lore from myriad cultural traditions. While they have some minor talent in traditional arts of combat and soul-based magic, their true power lies in their chants and invocations. They construct chants from individual iconic phrases, through the clever overlapping of phrases, chanters can grant their allies a sizable stack of minor bonuses over large area. While chants may seem modest compared to a wizard or a priest magic, chanters are able to recite their chants while occupied with other activities, making them extremely versatile.
+
+
+item (
+# Chanter dedication
+## Feat 2
+-
+;archetype, dedication
+**Prerequisites** trained in Performance
+-
+You learn the art of tuning the voice. You are trained in X Skill and gain 2 focus points.
+
+**Special** You can’t select another dedication feat until you have gained two other feats from the chanter archetype.
+
+# Crowd Control :aa:
+## Feat 4
+-
+;archetype, audible, mental, concentrate
+**Prerequisites** Chanter Dedication
+**Range** 30 feet
+**Duration** sustained up to 4 rounds
+-
+Your audience feel the need of response your songs. Any enemy that hears you have to attempt to roll a Spell DC check. After he or she is inmune for 1 day.
+-
+**Critical Success** the enemy have to spend 1 action to sing along you every turn. They are slowed 1 for the duration of your chant.
+**Success** the enemy have to spend 1 action on the following turn.
+**Failure** the enemy have to spend 1 action to sing along you every turn. They are slowed 1 for the duration of your chant.
+**Critical Failure** the enemy is confused while you sing this chant.
+)
+
+|
+
+item (
+# Visual lyrics
+## Feat 6
+-
+; archetype
+**Prerequisites** Chanter Dedication
+-
+
+Your enemies can't evade your songs by tapping their ears. Your songs now aquire the visual tag, so non-hearing enemies now have to do a DC check to your songs.
+
+# Overtone singing :aaa:
+## Feat 8
+-
+;archetype, audible
+**Prerequisites** Chanter Dedication
+-
+You can perform 2 chants at the same time. You can cast 2 focus spells using 3 actions.
+
+
+)
+
+## Chanter focus spells
+Chanters have a variety of songs to assit their allies or bane their foes.
+
+item(
+
+# Shock rock
+## Focus 3
+-
+;archetype, concentrate, mental
+**Cast** :a: verbal, somatic
+**Target** 1 opponent
+-
+The target must attempt a Will save. The target then becomes temporarily immune to all your chants for 1 minute.
+**Critical Success** Target is unnafected.
+**Success** Your opponent can't use reactions this round.
+**Failure** Your opponent can't use reactions for 3 rounds.
+**Critical Failure** Your opponent can't use reactions 5 rounds and it's Deafened 2.
+-
+**Heightened(+1)** You can choose another target.
+)
+
+
+item (
+
+# Enhance 
+## Focus 3
+-
+;archetype, auditory, concentrate
+**Cast** :aa: verbal
+**Range** 30 feet; **Targets** all allies.
+**Duration** sustained up to 3 rounds
+-
+Gives your allies +1 circumstance bonus to attack rolls
+
+# Bedevil
+## Focus 5
+-
+;archetype, auditory, concentrate
+**Cast** :aa: verbal
+**Range** 30 feet; **Targets** all enemies.
+**Duration** sustained up to 3 rounds
+-
+Pick a specific Save roll (Fortitude, Reflex or Will). Give your enemies -1 circumstance penalty to a that save 
+)
+=
+
+item(
+# Bladesong
+## Focus 3
+-
+;archetype, auditory, concentrate
+**Cast** :aa: verbal
+**Range** 30 feet; **Targets** all allies.
+**Duration** sustained up to 3 rounds
+-
+Now the weapons of your allies are considered magical during the chant's duration
+
+
+
+
+# Dull the Edge, Blunt the Point
+## Focus 3
+-
+;archetype, auditory, concentrate
+**Cast** :aa: verbal
+**Range** 30 feet; **Targets** all allies.
+**Duration** sustained up to 3 rounds
+-
+The weapons your allies are weilding gain resistance to slashing and piercing damage against normal weapons during the duration of this focus spell.
+
+# Thick Grew Their Tongues, Stumbling O'er Words
+## Focus 3
+-
+;archetype, auditory, concentrate
+**Cast** :aa: verbal
+**Range** 30 feet; **Targets** all enemies.
+**Duration** sustained up to 3 rounds
+-
+Your enemies have to concentrate harder on their things. They have a penalty of -2 circumstance on any concentrate action.
+)
+|
+# Contributing
+You can send requests, suggestions or errata in [AucaCoyan's Github](https://github.com/AucaCoyan/Chanter-pf2e).
+
